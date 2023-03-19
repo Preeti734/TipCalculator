@@ -1,1 +1,1 @@
-![gif](TipCalculator.gif)
+![git](TipCalculator.gif)
