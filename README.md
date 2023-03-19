@@ -1,1 +1,3 @@
 ![git](TipCalculator.gif)
+=======
+# TipCalculator
